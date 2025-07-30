@@ -1,2 +1,2 @@
 # Programming with Python
-A simple Personal Assistance script.
+A Simple Personal Assistance script.
