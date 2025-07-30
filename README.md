@@ -1,1 +1,2 @@
-# P_assistance
+# Programming with Python
+A simple Personal Assistance script.
